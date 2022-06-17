@@ -1,0 +1,18 @@
+# GET http://localhost:8001/holidays 
+
+# POST http://localhost:8001/books
+
+# POST https://r4k62izwyb.execute-api.eu-west-1.amazonaws.com/development/equipments
+
+# GET https://r4k62izwyb.execute-api.eu-west-1.amazonaws.com/development/regions/:idRegion/countries/:idCountry/states
+
+# GET https://api.github.com/users
+
+# GET  http://localhost:8001/userInfo
+
+POST  'http://localhost:8001/userInfo',{
+    name: "Paco",
+    lastName: "Regaert"
+}
+
+
